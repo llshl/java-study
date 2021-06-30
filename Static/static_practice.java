@@ -1,5 +1,6 @@
 package Static;
 
+
 class Foo{
 	public static String s1 = "i am static";
 	public String s2 = "i am instance";
@@ -19,7 +20,7 @@ public class static_practice {
 		System.out.println("foo2.s1: "+foo2.s1);
 		System.out.println("foo2.s2: "+foo2.s2);
 		
-		System.out.println("====º¯°æ====");
+		System.out.println("====ÂºÂ¯Â°Ã¦====");
 		
 		foo2.s1 = "changed s1 (foo2)";
 		foo2.s2 = "changed s2 (foo2)";
